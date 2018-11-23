@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Charmander
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Charmander\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=w
+comment1.target=Charmander(greenfoot.World)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Charmander\r\n\ \r\n\ @param\ w\ is\ a\ reference\ to\ the\ world\ that\ Charmander\ gets\ added\ to\r\n\ @return\ An\ object\ of\ type\ Charmander\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Charmander\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=idx
+comment3.target=void\ attack(int)
+comment3.text=\r\n\ The\ attack\ method\ has\ a\ varrible\ called\ playerWorld\ that\ stores\ a\ reference\ to\ the\ CreatureWorld.\ It\ also\ stores\ a\ variable\ called\ enemy\r\n\ that\ is\ initialized\ to\ player\ two's\ creature.\ The\ third\ varriable\ is\ called\ called\ enemyType\ that\ is\ initialized\ to\ the\ enemy's\ type.\r\n\ If\ the\ idx\ parameter\ is\ equal\ to\ 0\ the\ f\ method\ will\ add\ -25\ points\ of\ health\ to\ the\ enemy's\ health\ bar\ and\ if\ not\ is\ will\ add\ -70\r\n\ points\ to\ the\ health\ of\ the\ enemy's\ health\ bar.\r\n\ \r\n\ @param\ There\ is\ one\ integer\ inside\ the\ oarameters\ called\ idx\ \r\n\ @return\ An\ object\ of\ type\ Charmander\r\n
+numComments=4
